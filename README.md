@@ -2,13 +2,13 @@
 
 👀 I’m interested in:
  - Python
- - Revit API
- - Forge
- - Postman
- - Dynamo
+ - Revit plugin development
+ - APS app development
+ - Web dev
+ - .NET frameworks
  
 🌱 I’m currently learning ...
- - React
+ - THREE.js
 
 💞️ I’m looking to collaborate on ...
  - BIM related developments
